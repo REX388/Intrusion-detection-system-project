@@ -1,0 +1,17 @@
+# Data files
+*.csv
+# Model artifacts
+*.joblib
+*.h5
+# Python
+__pycache__/
+*.pyc
+# VSCode
+.vscode/
+# OS
+Thumbs.db
+.DS_Store
+# Logs
+*.log
+# Jupyter
+.ipynb_checkpoints/
