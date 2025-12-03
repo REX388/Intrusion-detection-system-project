@@ -1,4 +1,5 @@
 # Data files
+*.csv
 # Model artifacts
 *.joblib
 *.h5
